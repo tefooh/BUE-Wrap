@@ -1,5 +1,7 @@
 # BUEWrap (Portfolio Demo)
 
+<p align="center"> <img src="assets/screenshot.png" alt="OpenLiL app screenshot" width="200" /> </p>
+
 BUEWrap is a wrap-style React web app that presents an academic-semester summary experience.
 
 This public repository is configured as a standalone showcase build:
@@ -37,8 +39,6 @@ npm run build
 - Share links are generated and resolved on the client side in demo mode.
 - Do not use this demo with sensitive credentials or private data.
 
-## App Screenshot
-
-![BUEWrap Mobile Screenshot](buewrap-mobile.png)
+<!-- screenshots moved to top intro -->
 
 *Built by MTarif www.mtarif.com*
