@@ -1,8 +1,8 @@
 # BUEWrap (Portfolio Demo)
 
-BUEWrap is a wrap-style React web app that presents an academic-semester summary experience.
+<p align="center"> <img src="assets/screenshot.png" alt="OpenLiL app screenshot" width="200" /> </p>
 
-<p align="center"> <img src="assets/screenshot.png" alt="OpenLiL app screenshot" width="260" /> </p>
+BUEWrap is a wrap-style React web app that presents an academic-semester summary experience.
 
 This public repository is configured as a standalone showcase build:
 - No live backend dependency
