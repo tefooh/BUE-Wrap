@@ -36,3 +36,9 @@ npm run build
 
 - Share links are generated and resolved on the client side in demo mode.
 - Do not use this demo with sensitive credentials or private data.
+
+## App Screenshot
+
+![BUEWrap Mobile Screenshot](buewrap-mobile.png)
+
+*Built by MTarif www.mtarif.com*
